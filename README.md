@@ -1,11 +1,11 @@
 Insurance Risk & Claims Analysis Project
-📌 Project Overview
+Project Overview
 
 This project analyzes insurance policyholder data to identify high-risk customer segments, understand claims patterns, and support data-driven underwriting decisions.
 
 The objective was to demonstrate how analytical techniques can improve risk classification, pricing strategy, and overall profitability within an insurance business.
 
-🎯 Business Problem
+ Business Problem
 
 Insurance companies must accurately assess customer risk to maintain profitability. Poor risk classification can lead to:
 
@@ -19,7 +19,7 @@ Financial instability
 
 This project aims to identify the key drivers of insurance risk and propose strategies to improve underwriting decisions.
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 Microsoft Excel
 
@@ -29,7 +29,7 @@ Data Cleaning & Transformation
 
 Risk Segmentation Methods
 
-📊 Key Analysis Performed
+Key Analysis Performed
 
 Data cleaning and preprocessing of policyholder information
 
@@ -43,7 +43,7 @@ Loss ratio assessment
 
 Risk trend visualization
 
-🔎 Key Insights
+Key Insights
 
 Certain demographic and behavioral variables significantly influenced claims frequency.
 
@@ -53,7 +53,7 @@ Improved segmentation can support more accurate premium pricing.
 
 Better monitoring of claims trends can reduce financial exposure.
 
-💡 Business Recommendations
+Business Recommendations
 
 Implement risk-based pricing models.
 
@@ -63,7 +63,7 @@ Introduce proactive monitoring for frequent claimers.
 
 Use data segmentation to enhance profitability and sustainability.
 
-📈 Business Impact
+Business Impact
 
 This analysis demonstrates how structured data insights can:
 
